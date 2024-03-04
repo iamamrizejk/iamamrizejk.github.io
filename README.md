@@ -10,7 +10,7 @@
 <p align="left">
 <a href="https://dev.to/iam_amrizejk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="iam_amrizejk" height="30" width="40" /></a>
 <a href="https://twitter.com/iamamrizejk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamamrizejk" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/amrize jk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amrize jk" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/amrize-jk-9b780b257/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amrize jk" height="30" width="40" /></a>
 <a href="https://instagram.com/its_avery_08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_avery_08" height="30" width="40" /></a>
 <a href="https://dribbble.com/amrize_jk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="amrize_jk" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/amrize_jk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="amrize_jk" height="30" width="40" /></a>
